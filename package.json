@@ -1,0 +1,23 @@
+{
+  "name": "my-first-npm-module",
+  "version": "1.0.0",
+  "description": "This is an experimentation in creating a NPM module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnatih/my-first-npm-module.git"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "Jayesh Gohel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnatih/my-first-npm-module/issues"
+  },
+  "homepage": "https://github.com/gnatih/my-first-npm-module#readme"
+}
